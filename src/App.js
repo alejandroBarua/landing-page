@@ -1,9 +1,15 @@
+import React, { Fragment } from 'react'
+
+import GlobalStyles from "./styles/Global";
+
 
 const App = () => {
   return (
-    <div>
-     hello world
-    </div>
+    <Fragment>
+      <GlobalStyles />
+      hello ale
+    </Fragment>
+     
   );
 }
 
