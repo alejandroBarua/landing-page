@@ -7,7 +7,7 @@ const GlobalStyles = createGlobalStyle`
 		box-sizing: border-box;
 		font-size: ${({fontSize = 16}) => `${fontSize}px`};
 		font-family: "Roboto", sans-serif;
-		line-height: 1.6;
+		line-height: 1.5;
 		scroll-behavior: smooth;
 	}
 
