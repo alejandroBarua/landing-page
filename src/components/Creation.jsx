@@ -19,7 +19,7 @@ export default Creation;
 const ImageContainer = styled.figure`
 
 	position: relative;
-
+	cursor: pointer;
 `
 
 const Image = styled.div`
@@ -33,6 +33,7 @@ const Image = styled.div`
 		right: 0;
 		background: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.6));
 	}
+
 `
 
 const Description = styled.figcaption`
@@ -44,4 +45,5 @@ const Description = styled.figcaption`
 	position: absolute;
 	text-transform: uppercase;
 	width: 230px;
+	
 `
