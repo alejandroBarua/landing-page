@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.61c0ae35.js",
+    "static/media/image-hero.jpg": "/static/media/image-hero.3de81110dee4f75f44f9.jpg",
+    "static/media/image-from-above.jpg": "/static/media/image-from-above.f316f3f3afc353415f71.jpg",
+    "static/media/image-interactive.jpg": "/static/media/image-interactive.1d330522c9ca6cf07a9c.jpg",
+    "static/media/image-curiosity.jpg": "/static/media/image-curiosity.40d51f38342a87fea0cc.jpg",
+    "static/media/image-soccer-team.jpg": "/static/media/image-soccer-team.24ac0872cf2b5dd86a58.jpg",
+    "static/media/image-night-arcade.jpg": "/static/media/image-night-arcade.a5acf9d0f154b09407d4.jpg",
+    "static/media/image-deep-earth.jpg": "/static/media/image-deep-earth.f8da6014c990a9866d8c.jpg",
+    "static/media/image-grid.jpg": "/static/media/image-grid.043c26effd2704be777a.jpg",
+    "static/media/image-fisheye.jpg": "/static/media/image-fisheye.8bb3f74e4211fc238b01.jpg",
+    "static/media/image-pocket-borealis.jpg": "/static/media/image-pocket-borealis.0b89db1f6a9c0e56dcfd.jpg",
+    "static/media/logo.svg": "/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.61a3584463b61d0f0d6bc14bc5d1e40a.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "index.html": "/index.html",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "main.61c0ae35.js.map": "/static/js/main.61c0ae35.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.61c0ae35.js"
+  ]
+}
